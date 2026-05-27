@@ -21,12 +21,14 @@
   <a href="https://github.com/ragecoder-arc">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ragecoder-arc&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="ragecoder-arc's GitHub Stats" />
   </a>
+  <a href="https://www.instagram.com/_redroot_stash/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_redroot_stash/" height="30" width="40"/>
+  </a>
   <img src="https://streak-stats.demolab.com/?user=ragecoder-arc&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="ragecoder-arc's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
-
 
 ## 🛠️ Languages & Tools
 
